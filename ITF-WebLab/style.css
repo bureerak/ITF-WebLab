@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav p{
+    font-size: 18px;
+    color: white;
+}
+.modal .text{
+    margin: 16px;
+}
+.textjing{
+    background: white;
+    color: black;
+    padding: 10px;
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    color: pink;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+footer span{
+    background-color: white;
+    border-radius: 4px;
+    padding: 12px;
+}
+img{
+    box-shadow: 10px 10px lightblue;
+}
